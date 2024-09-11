@@ -1,5 +1,3 @@
-# Automa-o-de-Estoque
-Automação de Estoque Este projeto é uma solução para a automação da extração, processamento e comparação de dados de estoque entre diferentes marketplaces (como Mercado Livre e Bling). A aplicação permite realizar a conferência diária de estoque e gerar logs das diferenças, salvando os resultados em planilhas do Google Sheets.
 Automação de Estoque
 Este projeto é uma solução para a automação da extração, processamento e comparação de dados de estoque entre diferentes marketplaces (como Mercado Livre e Bling). A aplicação permite realizar a conferência diária de estoque e gerar logs das diferenças, salvando os resultados em planilhas do Google Sheets.
 
@@ -125,10 +123,5 @@ Após a execução do processamento de estoques, o log será gerado no arquivo l
 Contribuição
 Se você deseja contribuir para este projeto, sinta-se à vontade para fazer um fork do repositório, criar um branch e submeter um pull request.
 
-Licença
+Licençaa
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-![Captura de tela 2024-09-11 165039](https://github.com/user-attachments/assets/62a87f38-382d-4df6-b8d3-3853d18f5689)
-![Captura de tela 2024-09-11 163337](https://github.com/user-attachments/assets/cec88a4b-07b5-4be7-a0c2-ba314896ff72)
-![Captura de tela 2024-09-11 163319](https://github.com/user-attachments/assets/5087ca81-fc7e-4393-94e8-5d5a646429d7)
-![Captura de tela 2024-09-11 163302](https://github.com/user-attachments/assets/53684953-f6f9-49c0-b01c-c226fc70c6e0)
-![Captura de tela 2024-09-11 163231](https://github.com/user-attachments/assets/2080d6ca-da76-47de-a65f-886d642eb60b)
